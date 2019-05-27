@@ -1,0 +1,2 @@
+# learningJS-magicEightball
+magicEightball
